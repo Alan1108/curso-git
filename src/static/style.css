@@ -2,11 +2,6 @@ body {
   padding: 25px;
 }
 
-h1 {
-  text-align: center;
-  text-transform: capitalize;
-}
-
 section {
   display: flex;
   flex-direction: column;
