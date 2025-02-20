@@ -8,10 +8,6 @@ section {
   gap: 20px;
 }
 
-section label {
-  font-weight: 700;
-}
-
 .--input {
   display: flex;
   flex-direction: row;
