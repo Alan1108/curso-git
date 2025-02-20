@@ -5,10 +5,5 @@ const handleSubmit = (e) => {
   let birthday = document.querySelector("#birthday").value;
   let selector = document.querySelector("#selector").value;
 
-  if (!name || !surname || !email || !birthday || !selector) {
-    alert("Please, fill al the data!");
-    return;
-  }
-
   alert("Created successfully!");
 };
